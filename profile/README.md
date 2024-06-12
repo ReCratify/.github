@@ -1,5 +1,4 @@
-## Hi there 👋
-# Sec of Hi
+# ReCratify App
 
 <!--
 
