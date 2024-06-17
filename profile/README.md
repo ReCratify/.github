@@ -1,10 +1,3 @@
-<p align="center">
-  <a target="_blank" href="https://github.com/snapcook">
-  <img alt="snapcook logo" src="https://drive.google.com/uc?id=1Iu7GRzW4H8B5-ZE8wR8C3TbdFmgNV9dV" width="250">
-  </a>
-</p>
-
-
 # ReCratify App
 ReCratify is a mobile application that aims to reduce waste and promote creative reuse. It leverages image recognition technology to identify recyclable materials and recommend creative projects for them. Users can access tutorials and find inspiration from galleries.
 
