@@ -6,7 +6,7 @@ ReCratify is a mobile application that aims to reduce waste and promote creative
 
 <div align="center">
     <br>
-    <h3>Our Team</h3>
+    <h2>Our Team</h2>
     <table align="center">
         <tr>
             <th>Bangkit ID</th>
