@@ -3,6 +3,8 @@ ReCratify is a mobile application that aims to reduce waste and promote creative
 
 
 <div align="center">
+    <br>
+    <img style="width: 100px; height: 100px;" src="https://drive.google.com/uc?id=1Iu7GRzW4H8B5-ZE8wR8C3TbdFmgNV9dV">
     <h3>Our Team</h3>
     <table align="center">
         <tr>
@@ -86,7 +88,7 @@ ReCratify is a mobile application that aims to reduce waste and promote creative
 </div>
 
 ## App Preview :
-<img src="https://drive.google.com/uc?id=1BheocDGDRvL-E13zH3rZrVCFDINsrwB2"></a>
+<img src="https://drive.google.com/uc?id=1BheocDGDRvL-E13zH3rZrVCFDINsrwB2">
 
 ### Repository
 
