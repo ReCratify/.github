@@ -86,7 +86,7 @@ ReCratify is a mobile application that aims to reduce waste and promote creative
 </div>
 
 ## App Preview :
-<img src="https://drive.google.com/uc?id=1UPgeLB_0SubfEyrhtC4h3zd67dU2X8N_"></a>
+<img src="https://drive.google.com/uc?id=1BheocDGDRvL-E13zH3rZrVCFDINsrwB2"></a>
 
 ### Repository
 
