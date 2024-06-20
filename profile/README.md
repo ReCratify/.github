@@ -85,6 +85,9 @@ ReCratify is a mobile application that aims to reduce waste and promote creative
     </table>
 </div>
 
+## App Preview :
+<img src="https://drive.google.com/uc?id=1UPgeLB_0SubfEyrhtC4h3zd67dU2X8N_"></a>
+
 ### Repository
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReCratify/Model-ReCratify)
