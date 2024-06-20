@@ -87,10 +87,10 @@ ReCratify is a mobile application that aims to reduce waste and promote creative
 
 ### Repository
 
-[![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/ReCratify/Model-ReCratify])
+[![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReCratify/Model-ReCratify)
 
-[![Cloud Computing_API_Backend](https://img.shields.io/badge/Cloud%20Computing%20API-121013?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/ReCratify/Backend-ReCratify])
+[![Cloud Computing_API_Backend](https://img.shields.io/badge/Cloud%20Computing%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReCratify/Backend-ReCratify)
 
-[![Cloud Computing_API_Model](https://img.shields.io/badge/Cloud%20Computing%20API-121013?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/ReCratify/API-prediction-ReCratify])
+[![Cloud Computing_API_Model](https://img.shields.io/badge/Cloud%20Computing%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReCratify/API-prediction-ReCratify)
 
 [![Mobile Development](https://img.shields.io/badge/Mobile%20Development-121013?style=for-the-badge&logo=github&logoColor=white)]('')
